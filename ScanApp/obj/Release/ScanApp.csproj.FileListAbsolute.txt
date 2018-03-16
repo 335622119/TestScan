@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\bin\Release\ScanApp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\bin\Release\ScanApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\bin\Release\ScanApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\obj\Release\ScanApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\obj\Release\ScanApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\obj\Release\ScanApp.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\obj\Release\ScanApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ScanApp\ScanApp\obj\Release\ScanApp.csprojResolveAssemblyReference.cache
